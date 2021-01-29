@@ -9,7 +9,7 @@ At the start of 2020 the highly contagious novel coronavirus started its spread 
 
 For our project we wanted to see how a deep learning machine model could predict prices through a black swan event and see if any could predict the winners and losers. We  identified four stocks that had at least four years of being publicly traded prior to the pandemic. We included two stocks that did extraordinarily well and exhibited very strong performance along with two stocks that did very poorly. We also included an S&P ETF as a proxy for the market as a whole. 
 
-The stocks we selected were Carnival Cruise Lines (CCL,) Delta Airlines (DAL,) Paypal (PYPL,) and Etsy (ETSY.) along with the SPY as to have as a benchmark. Below is a chart showing their five year performance (1/1/2016-12/31/2020), their four year performance leading into 2020, along with their 2020 Performance.
+The stocks we selected were Carnival Cruise Lines (CCL,) Delta Airlines (DAL,) Paypal (PYPL,) and Etsy (ETSY.). Below is a chart showing their five year performance (1/1/2016-12/31/2020), their four year performance leading into 2020, along with their 2020 Performance.
 ![](images/companies_chosen.png)
 
 We considered using linear regression as a potential model as well as using random forest, but these models proved to be poor predictors of future performance as shown in the visualizations below:
